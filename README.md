@@ -27,8 +27,6 @@ Image Address: [GFG Site Link](https://media.geeksforgeeks.org/wp-content/upload
 - 3 dimensional 
 - n dimensional
 
-**Magnitude of vector:** 
-$$\| \mathbf{v} \| = \sqrt{v_1^2 + v_2^2 + \dots + v_n^2}$$ 
 
 *Dot product* 
 The dot product of two vectors is the product of the magnitude of the two vectors and 
